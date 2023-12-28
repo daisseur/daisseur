@@ -26,5 +26,4 @@ French Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/daisseur"><img src="https://github-readme-stats.vercel.app/api?username=daisseur&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=171515&hide_border=true&show_icons=true" alt="daisseur's GitHub stats" /></a>
-<a href="http://www.github.com/daisseur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daisseur&stroke=ffffff&background=171515&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/daisseur"><img src="https://github-readme-stats.vercel.app/api?username=daisseur&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=0D1117&hide_border=true&show_icons=true" alt="daisseur's GitHub stats" /></a>               <a href="http://www.github.com/daisseur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daisseur&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
