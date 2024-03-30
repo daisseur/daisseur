@@ -1,20 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is daisseur
-================================================================================================================================
+<p align="center"><img src="https://github.com/daisseur/daisseur/assets/100715068/bbd8a7ee-652c-4d28-9d10-f09a81787249" width="100%" /></p>
 
-French Student
---------------
-
-\\\\ Hey je suis étudiant français et ici vous pourrez voir quelques un de mes projets
-
-* 🖥️  See my portfolio at [https://daisseur.github.io](http://daisseur.github.io)
-* 🧠  I'm learning TS
-
+## Heyy !!  I'm daisseur
+I'm french student and here is my github page with my little projects. I'd be happy to contribute to projects with others, so please don't hesitate to contact me.
 
 ### Skills
+> **Languages**
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+[![My Languages](https://skillicons.dev/icons?i=js,html,css,py,npm,md,bash)](https://skillicons.dev)
+
+> **IDE**
+
+[![My Softwares](https://skillicons.dev/icons?i=vscode,pycharm,idea,sublime)](https://skillicons.dev)
+
+> **Platforms**
+
+[![My Platforms](https://skillicons.dev/icons?i=git,github,godot,obsidian,ableton)](https://skillicons.dev)
+
+> **OS**
+
+[![My OS](https://skillicons.dev/icons?i=linux,ubuntu,windows,)](https://skillicons.dev)
+
+### Others
+> **My shitty portfolio**
+>  - 🖥️  at [https://daisseur.github.io](http://daisseur.github.io)
+
+> ### **Socials**
+
+[![My Platforms](https://skillicons.dev/icons?i=discord)](https://discord.com/app)
+
+-----
 
 <b>My GitHub Stats</b>
 
