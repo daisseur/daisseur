@@ -1,12 +1,13 @@
 <p align="center"><img src="https://github.com/daisseur/daisseur/assets/100715068/bbd8a7ee-652c-4d28-9d10-f09a81787249" width="100%" /></p>
 
-## Heyy !!  I'm daisseur
-I'm french student and here is my github page with my little projects. I'd be happy to contribute to projects with others, so please don't hesitate to contact me.
+# Heyy !!  I'm daisseur
+### I'm french student and here is my github page with my little projects. I'd be happy to contribute to projects with others, so please don't hesitate to contact me.
 
-### Skills
+## Skills
 > **Languages**
 
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,py,npm,md,bash)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,ts,svelte,py,md,bash)](https://skillicons.dev)______________![Packages tools](https://skillicons.dev/icons?i=deno,npm,yarn,pnpm)
+
 
 > **IDE**
 
@@ -18,13 +19,13 @@ I'm french student and here is my github page with my little projects. I'd be ha
 
 > **OS**
 
-[![My OS](https://skillicons.dev/icons?i=linux,ubuntu,windows,)](https://skillicons.dev)
+[![My OS](https://skillicons.dev/icons?i=linux,ubuntu,windows,)](https://ubuntu.com/)
 
-### Others
+## Others
 > **My shitty portfolio**
 >  - 🖥️  at [https://daisseur.github.io](http://daisseur.github.io)
 
-> ### **Socials**
+## **Socials**
 
 [![My Platforms](https://skillicons.dev/icons?i=discord)](https://discord.com/app)
 
