@@ -28,6 +28,7 @@
 
 -----
 
-<b>My GitHub Stats</b>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=daisseur&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=00000000&hide_border=true&show_icons=true" alt="daisseur's GitHub stats" /></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/demo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daisseur&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daisseur&hide=GLSL&layout=compact&bg_color=00000000&hide_border=true&show_icons=true&text_color=ffffff"/></a>
 
-<a href="http://www.github.com/daisseur"><img src="https://github-readme-stats.vercel.app/api?username=daisseur&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=22c55e&bg_color=00000000&hide_border=true&show_icons=true" alt="daisseur's GitHub stats" /></a>               <a href="http://www.github.com/daisseur"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daisseur&stroke=ffffff&background=00000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
