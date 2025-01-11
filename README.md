@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/92d5256d-9790-4cf4-b692-f31228b7ae69" width="100%" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/92d5256d-9790-4cf4-b692-f31228b7ae69" width="100%"/></p>
 
 
 <p style="margin: 15px;" align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p style="margin: 15px;" >
-  <a href="https://readme-typing-svg.demolab.com/demo/?weight=900&duration=1000&color=27F739&lines=Thanks+to+this+incredible+project+!;OPEN+SOURCE+IS+BETTER"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=1000&color=952CB1DF&background=0D111700&vCenter=true&random=true&width=435&lines=I'm+a+big+fan+of+SAO;REACH+THE+FINALS;SVELTE+ON+TOP;Hermes+3+is+out+!;LINKIN+PARK;~github%2Fhome%24%3E+daisseur" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com/demo/?weight=900&duration=1000&color=27F739&lines=Thanks+to+this+incredible+project+!;OPEN+SOURCE+IS+BETTER"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=1000&color=952CB1DF&background=0D111700&vCenter=true&random=true&width=435&lines=I'm+a+big+fan+of+SAO;REACH+THE+FINALS;SVELTE+ON+TOP;PHI-4+VS+DEEPSKEEK-V3;LINKIN+PARK;~github%2Fhome%24%3E+daisseur" alt="Typing SVG" /></a>
 </p>
 
 
@@ -16,9 +16,9 @@
 
 |   **Languages**   | [![My Languages](https://skillicons.dev/icons?i=html,css,js,ts,svelte,py,md,bash)](https://svelte.dev) |
 |:-----------------:|--------------------------------------------------------------------------------------------------------|
-| **Package tools** | ![Packages tools](https://skillicons.dev/icons?i=deno,npm,yarn,pnpm)                                   |
+| **Package tools** | ![Packages tools](https://skillicons.dev/icons?i=deno,npm,pnpm)                                        |
 |      **IDE**      | [![IDE](https://skillicons.dev/icons?i=vscode,pycharm,idea,sublime)](https://code.visualstudio.com)    |
-|   **Platforms**   | ![My Platforms](https://skillicons.dev/icons?i=git,github,godot,obsidian,ableton)                      |
+|   **Platforms**   | ![My Platforms](https://skillicons.dev/icons?i=git,github,docker,godot,sqlite,postgres)                |
 |       **OS**      | [![My OS](https://skillicons.dev/icons?i=linux,ubuntu,windows,)](https://ubuntu.com/)                  |
 
 
