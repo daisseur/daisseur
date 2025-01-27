@@ -7,7 +7,7 @@
 </p>
 
 <p style="margin: 15px;" >
-  <a href="https://readme-typing-svg.demolab.com/demo/?weight=900&duration=1000&color=27F739&lines=Thanks+to+this+incredible+project+!;OPEN+SOURCE+IS+BETTER"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=1000&color=952CB1DF&background=0D111700&vCenter=true&random=true&width=435&lines=I'm+a+big+fan+of+SAO;REACH+THE+FINALS;SVELTE+ON+TOP;PHI-4+VS+DEEPSKEEK-V3;LINKIN+PARK;~github%2Fhome%24%3E+daisseur" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com/demo/?weight=900&duration=1000&color=27F739&lines=Thanks+to+this+incredible+project+!;OPEN+SOURCE+IS+BETTER"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1500&pause=1000&color=952CB1DF&background=0D111700&vCenter=true&random=true&width=435&lines=I'm+a+big+fan+of+SAO;REACH+THE+FINALS;SVELTE+ON+TOP;THE+RISE+OF+DEEPSKEEK-R1;LINKIN+PARK;~github%2Fhome%24%3E+daisseur" alt="Typing SVG" /></a>
 </p>
 
 
