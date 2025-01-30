@@ -26,5 +26,3 @@
 
 [![My Platforms](https://skillicons.dev/icons?i=discord)](https://discord.com/app)
 
------
-
